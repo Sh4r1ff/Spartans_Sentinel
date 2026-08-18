@@ -9,7 +9,7 @@ from xml.sax.saxutils import escape
 from curl_cffi import requests
 
 AMD_URL = "https://www.amdgaming.com/promotions"
-PAGES_DIR = Path("pages")
+PAGES_DIR = Path("docs")
 DATA_DIR = PAGES_DIR / "data"
 STATE_FILE = DATA_DIR / "state.json"
 RSS_FILE = PAGES_DIR / "amd_gaming_promotions.xml"
