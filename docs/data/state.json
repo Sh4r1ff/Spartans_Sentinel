@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-09-10T14:07:23.569760+00:00",
+  "updated_at": "2026-09-10T17:41:29.802292+00:00",
   "promotions": {
+    "33258e22-5e86-4340-887d-02a125194277": {
+      "title": "How 2 Escape: Lost Submarine Giveaway",
+      "keys_available": 0,
+      "status": "active",
+      "slug": "how-2-escape-lost-submarine-giveaway"
+    },
     "95fdc6be-3f91-4ebb-a87d-d119e9ef5354": {
       "title": "Dwarven Realms Giveaway",
       "keys_available": 0,
@@ -33,7 +39,7 @@
     },
     "2daf90c5-a96c-4621-8222-17050e47e375": {
       "title": "World of Warships - Naval Supplies Giveaway",
-      "keys_available": 8603,
+      "keys_available": 8599,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway-2"
     },
@@ -57,7 +63,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 6237,
+      "keys_available": 6231,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
@@ -114,12 +120,6 @@
       "keys_available": 0,
       "status": "active",
       "slug": "hitman-patient-zero-requiem-dlc-giveaway"
-    },
-    "e8f93741-4eaa-4be9-abee-da69dc105815": {
-      "title": "Call of Duty®: Black Ops 7 Giveaway - Double Level XP",
-      "keys_available": 10000,
-      "status": "active",
-      "slug": "cod-black-ops-7"
     }
   }
 }
