@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-16T14:50:40.428762+00:00",
+  "updated_at": "2026-09-16T18:34:23.355657+00:00",
   "promotions": {
-    "33258e22-5e86-4340-887d-02a125194277": {
-      "title": "How 2 Escape: Lost Submarine Giveaway",
-      "keys_available": 0,
-      "status": "active",
-      "slug": "how-2-escape-lost-submarine-giveaway"
-    },
     "fc70816e-46c6-4f59-944b-fd07e21541f1": {
       "title": "Deadswitch Combat DLC Giveaway",
       "keys_available": 0,
       "status": "active",
       "slug": "deadswitch-combat"
+    },
+    "33258e22-5e86-4340-887d-02a125194277": {
+      "title": "How 2 Escape: Lost Submarine Giveaway",
+      "keys_available": 0,
+      "status": "active",
+      "slug": "how-2-escape-lost-submarine-giveaway"
     },
     "95fdc6be-3f91-4ebb-a87d-d119e9ef5354": {
       "title": "Dwarven Realms Giveaway",
@@ -45,7 +45,7 @@
     },
     "2daf90c5-a96c-4621-8222-17050e47e375": {
       "title": "World of Warships - Naval Supplies Giveaway",
-      "keys_available": 8463,
+      "keys_available": 8458,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway-2"
     },
@@ -69,7 +69,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 6123,
+      "keys_available": 6121,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
