@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-10-13T14:59:43.480869+00:00",
+  "updated_at": "2026-10-13T20:36:44.043407+00:00",
   "promotions": {
+    "ada9f590-3a55-449a-8907-32b2c2a7e938": {
+      "title": "Nutmeg! Game Key Giveaway",
+      "keys_available": 0,
+      "status": "active",
+      "slug": "nutmeg-game-key-giveaway"
+    },
     "2daf90c5-a96c-4621-8222-17050e47e375": {
       "title": "World of Warships - Naval Supplies Giveaway",
       "keys_available": 0,
@@ -75,7 +81,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 5938,
+      "keys_available": 5914,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
@@ -114,12 +120,6 @@
       "keys_available": 0,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway"
-    },
-    "2d7e9166-c624-49bb-a136-1465726c1f28": {
-      "title": "Vaultbreakers Playtest Key Giveaway",
-      "keys_available": 0,
-      "status": "active",
-      "slug": "vaultbreakers-playtest-key-giveaway"
     }
   }
 }
