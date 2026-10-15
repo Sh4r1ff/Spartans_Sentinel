@@ -1,11 +1,17 @@
 {
-  "updated_at": "2026-10-15T14:32:37.548131+00:00",
+  "updated_at": "2026-10-15T18:36:56.190230+00:00",
   "promotions": {
     "ada9f590-3a55-449a-8907-32b2c2a7e938": {
       "title": "Nutmeg! Game Key Giveaway",
       "keys_available": 0,
       "status": "active",
       "slug": "nutmeg-game-key-giveaway"
+    },
+    "47dc5299-f57c-464a-9a47-6b18310d5d54": {
+      "title": "World of Tanks Bonus Code Key Giveaway",
+      "keys_available": 8931,
+      "status": "active",
+      "slug": "world-of-tanks"
     },
     "2daf90c5-a96c-4621-8222-17050e47e375": {
       "title": "World of Warships - Naval Supplies Giveaway",
@@ -81,7 +87,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 4839,
+      "keys_available": 4809,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
@@ -114,12 +120,6 @@
       "keys_available": 0,
       "status": "active",
       "slug": "gray-zone-warfare-base-edition-giveaway"
-    },
-    "5e90ef0e-f112-463a-a263-8727f99d6677": {
-      "title": "World of Warships Naval Supplies Giveaway",
-      "keys_available": 0,
-      "status": "active",
-      "slug": "world-of-warships-naval-supplies-giveaway"
     }
   }
 }
