@@ -40,6 +40,16 @@ jobs:
             echo "No file changes."
           else
             git commit -m "Update AMD Gaming promotions"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "Failed to push after 3 attempts."
+                exit 1
+              fi
+              echo "Push failed (attempt $attempt). Retrying..."
+              sleep 2
+            done
           fi
