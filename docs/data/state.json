@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T15:51:49.312710+00:00",
+  "updated_at": "2026-10-23T19:43:37.246092+00:00",
   "promotions": {
     "93dbf8c8-d73f-495e-9b1e-b702791fe8ae": {
       "title": "World of Warships - Naval Supplies Giveaway",
-      "keys_available": 9239,
+      "keys_available": 9123,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway-3"
     },
@@ -15,7 +15,7 @@
     },
     "47dc5299-f57c-464a-9a47-6b18310d5d54": {
       "title": "World of Tanks Bonus Code Key Giveaway",
-      "keys_available": 9138,
+      "keys_available": 9123,
       "status": "active",
       "slug": "world-of-tanks"
     },
@@ -93,7 +93,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 4720,
+      "keys_available": 4716,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
