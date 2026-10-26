@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-10-26T11:02:31.534891+00:00",
+  "updated_at": "2026-10-26T17:18:06.713604+00:00",
   "promotions": {
+    "dec5848a-f493-4e55-a690-ba1db261a776": {
+      "title": "V Rising Game Key Giveaway",
+      "keys_available": 0,
+      "status": "active",
+      "slug": "vrising"
+    },
     "93dbf8c8-d73f-495e-9b1e-b702791fe8ae": {
       "title": "World of Warships - Naval Supplies Giveaway",
-      "keys_available": 8623,
+      "keys_available": 8585,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway-3"
     },
@@ -15,7 +21,7 @@
     },
     "47dc5299-f57c-464a-9a47-6b18310d5d54": {
       "title": "World of Tanks Bonus Code Key Giveaway",
-      "keys_available": 8995,
+      "keys_available": 8981,
       "status": "active",
       "slug": "world-of-tanks"
     },
@@ -93,7 +99,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 4706,
+      "keys_available": 4702,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
@@ -114,12 +120,6 @@
       "keys_available": 0,
       "status": "active",
       "slug": "frog-sqwad-giveaway"
-    },
-    "7607cee4-24fe-4752-8de4-b393cd851d01": {
-      "title": "House Flipper 2 Giveaway",
-      "keys_available": 0,
-      "status": "active",
-      "slug": "house-flipper-2-giveaway"
     }
   }
 }
