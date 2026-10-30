@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-10-30T13:14:18.150013+00:00",
+  "updated_at": "2026-10-30T18:40:15.442697+00:00",
   "promotions": {
+    "01af245c-0cd8-48f0-89fa-aaf0342da347": {
+      "title": "Halloween: The Game Game Key Giveaway",
+      "keys_available": 0,
+      "status": "active",
+      "slug": "halloween-the-game"
+    },
     "dec5848a-f493-4e55-a690-ba1db261a776": {
       "title": "V Rising Game Key Giveaway",
       "keys_available": 0,
@@ -9,7 +15,7 @@
     },
     "93dbf8c8-d73f-495e-9b1e-b702791fe8ae": {
       "title": "World of Warships - Naval Supplies Giveaway",
-      "keys_available": 8284,
+      "keys_available": 8249,
       "status": "active",
       "slug": "world-of-warships-naval-supplies-giveaway-3"
     },
@@ -21,7 +27,7 @@
     },
     "47dc5299-f57c-464a-9a47-6b18310d5d54": {
       "title": "World of Tanks Bonus Code Key Giveaway",
-      "keys_available": 8832,
+      "keys_available": 8780,
       "status": "active",
       "slug": "world-of-tanks"
     },
@@ -99,7 +105,7 @@
     },
     "42ad924d-9743-4978-b034-d87ad0ddfc05": {
       "title": "GOALS Kit Giveaway",
-      "keys_available": 4516,
+      "keys_available": 4512,
       "status": "active",
       "slug": "goals-kit-giveaway"
     },
@@ -114,12 +120,6 @@
       "keys_available": 0,
       "status": "active",
       "slug": "world-of-tanks-heat-giveaway"
-    },
-    "0bb11923-a928-4349-9dee-e7277c095087": {
-      "title": "Frog Sqwad Giveaway",
-      "keys_available": 0,
-      "status": "active",
-      "slug": "frog-sqwad-giveaway"
     }
   }
 }
